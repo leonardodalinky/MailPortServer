@@ -23,19 +23,5 @@
 hs_err_pid*
 
 # 排除idea ide
-.idea
-*.iml
-out
-gen
-/.apt_generated/
-/.classpath
-/.factorypath
-/.project
-/.settings/
-/.springBeans
-/target/
-/.gitignore
-/user-profile-analysis.iml
-/.idea
-/README.md
-.DS_Store
+out/
+target/
