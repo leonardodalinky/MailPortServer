@@ -12,7 +12,7 @@
 
 #### 2. 下载jar文件
 
-下载Release中的MailPortServer-\*.\*.rar，并解压得到MailPortServer-\*.\*.jar及config.json
+下载Release中的MailPortServer-\*.\*.tar.gz，并解压得到MailPortServer-\*.\*.jar及config.json
 
 #### 3. 配置config.json
 
@@ -45,7 +45,7 @@ java -jar ./MailPortServer-*.*.jar 5001
 {
 	"ToHost":"someone@mail.com",
 	"Subject":"title",
-    "Message":"something"
+	"Message":"something"
 }
 ```
 
