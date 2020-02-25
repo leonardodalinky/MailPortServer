@@ -16,7 +16,7 @@
 
 #### 3. 配置config.json
 
-config.json文件中，存储了自己邮箱**（目前仅支持qq邮箱）**及qq邮箱的授权码（见[wiki](https://github.com/leonardodalinky/MailPortServer/wiki/%E8%8E%B7%E5%8F%96QQ%E9%82%AE%E7%AE%B1%E6%A0%A1%E9%AA%8C%E7%A0%81)）。json格式为：
+config.json文件中，存储了自己邮箱且**目前仅支持qq邮箱**，及qq邮箱的授权码（见[wiki](https://github.com/leonardodalinky/MailPortServer/wiki/%E8%8E%B7%E5%8F%96QQ%E9%82%AE%E7%AE%B1%E6%A0%A1%E9%AA%8C%E7%A0%81)）。json格式为：
 
 ```json
 {
