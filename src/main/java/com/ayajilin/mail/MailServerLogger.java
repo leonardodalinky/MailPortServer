@@ -4,9 +4,7 @@ import com.ayajilin.mail.exception.MailServerLoggerException;
 
 import java.io.File;
 import java.io.FileOutputStream;
-import java.nio.charset.StandardCharsets;
 import java.util.Date;
-import java.util.regex.Pattern;
 
 public class MailServerLogger {
     private File logFileDir;

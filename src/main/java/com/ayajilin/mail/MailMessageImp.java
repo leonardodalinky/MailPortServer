@@ -51,17 +51,17 @@ public class MailMessageImp implements MailMessage {
     }
 
     @Override
-    public String getMessage() {
+	public String getMessage() {
         return message;
     }
 
     @Override
-    public String getToHost() {
+	public String getToHost() {
         return toHost;
     }
 
     @Override
-    public String getSubject() {
+	public String getSubject() {
         return this.subject;
     }
 

@@ -1,7 +1,6 @@
 package com.ayajilin.mail;
 
 import java.io.UnsupportedEncodingException;
-import java.nio.charset.StandardCharsets;
 import java.util.Date;
 import java.util.Properties;
 
