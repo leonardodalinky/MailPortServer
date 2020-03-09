@@ -6,7 +6,7 @@
 
 ### 安装说明
 
-#### 1. 安装jdk11及以上
+#### 1. 安装jdk13及以上
 
 具体请查询搜索引擎。
 
@@ -30,10 +30,10 @@ config.json文件中，存储了自己邮箱且**目前仅支持qq邮箱**，及
 在MailPortServer-\*.\*.jar的同目录下，执行命令
 
 ```powershell
-java -jar ./MailPortServer-*.*.jar 5001
+java -jar ./MailPortServer-*.*.jar 5001 ./config.json
 ```
 
-其中*5001*为自己选择需要监听的端口。
+其中*5001*为自己选择需要监听的端口，*./config.json*为config文件的位置。
 
 ### 使用说明
 
